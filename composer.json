@@ -1,0 +1,12 @@
+{
+    "name": "vdeapps/page-loading.js",
+    "description": "Automatically add a progress bar to your site",
+    "type": "library",
+    "authors": [
+        {
+            "name": "vdeapps",
+            "email": "vdeapps@riseup.net"
+        }
+    ],
+    "require": {}
+}
