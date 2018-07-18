@@ -1,6 +1,6 @@
 Disclaimer, We no longer use this library internally and are focusing our efforts on open sourcing and maintaining projects that we do use and can meaningfully contribute to. Sorry for any frustrations with this project (we're happy to link to any fork that has an excited, commited maintainer).
 
-pace
+page-loading
 ====
 
 An automatic web page progress bar.
@@ -14,7 +14,7 @@ If you use AMD or Browserify, require pace.js and call `pace.start()` as early i
 ### Example
 ```html
 <head>
-  <script src="/pace/pace.js"></script>
-  <link href="/pace/themes/pace-theme-barber-shop.css" rel="stylesheet" />
+  <script src="page-loading.js"></script>
+  <link href="pace-theme-barber-shop.css" rel="stylesheet" />
 </head>
 ```

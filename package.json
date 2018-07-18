@@ -1,6 +1,6 @@
 {
-  "name": "pace-progress",
-  "version": "1.0.2",
+  "name": "page-loading.js",
+  "version": "1.0.0",
   "description": "Automatic page load progress bar",
   "authors": [
     "Zack Bloom <zackbloom@gmail.com>",
@@ -10,7 +10,7 @@
   "main": "pace.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/HubSpot/pace.git"
+    "url": "git://github.com/vdeapps/page-loading.js.git"
   },
   "devDependencies": {
     "grunt-contrib-coffee": "~0.7.0",
